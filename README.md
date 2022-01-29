@@ -2,7 +2,7 @@
 E-Commerce API with Node.js, MongoDB, Mongoose , JWT, CryptoJS and Stripe Checkout
 
 Features CRUD functionality for different roles. Users can register, login, create a cart and place an order. Admins can delete / add products, and many more. In this project, Models are created via Mongoose Schemas.
-> Due to different version I believe Mongoose syntax for schemas has changed a bit which results in minor bugs to fixed .
+> Due to version differences, I believe Mongoose syntax for schemas has changed a bit which results in minor bugs to fixed.
 
 ## Good to have(s) / Flaws
 
